@@ -154,9 +154,4 @@ This project demonstrates Python functions, classes, dataclasses, exceptions, ty
 - Automated backups and restore workflow
 - Accessibility and localization improvements
 
-  ██╗      █████╗ ██╗  ██╗███████╗██╗  ██╗██╗   ██╗ █████╗
-  ██║     ██╔══██╗██║ ██╔╝██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗
-  ██║     ███████║█████╔╝ ███████╗███████║ ╚████╔╝ ███████║
-  ██║     ██╔══██║██╔═██╗ ╚════██║██╔══██║  ╚██╔╝  ██╔══██║
-  ███████╗██║  ██║██║  ██╗███████║██║  ██║   ██║   ██║  ██║
-  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+BY LAkshya :)
